@@ -4,4 +4,4 @@ NUMBER=$(($FIRST+$SECOND))
 echo "$NUMBER"
 echo " completed"
 echo " added new line:"
-echo " added one moreline"
+echo " added one moreline2"
